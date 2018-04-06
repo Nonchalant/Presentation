@@ -12,6 +12,11 @@
 - Best Docker Container in Swift
 - https://speakerdeck.com/nonchalant/try-swift-tokyo-2018-best-docker-container-in-swift
 
+### 3. [potatotips #45](https://potatotips.connpass.com/event/82476/) (2018/04/19)
+
+- iOSは自動生成の夢を見るか？
+- https://speakerdeck.com/nonchalant/potatotips-number-50-ioshazi-dong-sheng-cheng-falsemeng-wojian-ruka
+
 
 ## 2017
 
