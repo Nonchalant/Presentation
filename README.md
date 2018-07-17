@@ -17,6 +17,10 @@
 - iOSは自動生成の夢を見るか？
 - https://speakerdeck.com/nonchalant/potatotips-number-50-ioshazi-dong-sheng-cheng-falsemeng-wojian-ruka
 
+### 4. [iOSDC Japan 2018](https://iosdc.jp/2018/) (2018/09/01)
+
+- 小さくはじめる端末管理
+
 
 ## 2017
 
