@@ -12,12 +12,17 @@
 - Best Docker Container in Swift
 - https://speakerdeck.com/nonchalant/try-swift-tokyo-2018-best-docker-container-in-swift
 
-### 3. [potatotips #45](https://potatotips.connpass.com/event/82476/) (2018/04/19)
+### 3. [potatotips #50](https://potatotips.connpass.com/event/82476/) (2018/04/19)
 
 - iOSは自動生成の夢を見るか？
 - https://speakerdeck.com/nonchalant/potatotips-number-50-ioshazi-dong-sheng-cheng-falsemeng-wojian-ruka
 
-### 4. [iOSDC Japan 2018](https://iosdc.jp/2018/) (2018/09/01)
+### 4. [iPhone Dev Sapporo勉強会](https://devsap.connpass.com/event/90071/) (2018/07/28)
+
+- コード生成のススメ
+- https://speakerdeck.com/nonchalant/devsap-20180728-kodosheng-cheng-falsesusume
+
+### 5. [iOSDC Japan 2018](https://iosdc.jp/2018/) (2018/09/01)
 
 - 小さくはじめる端末管理
 
