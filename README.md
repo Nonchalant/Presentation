@@ -22,9 +22,10 @@
 - コード生成のススメ
 - https://speakerdeck.com/nonchalant/devsap-20180728-kodosheng-cheng-falsesusume
 
-### 5. [iOSDC Japan 2018](https://iosdc.jp/2018/) (2018/09/01)
+### 5. [iOSDC Japan 2018](https://iosdc.jp/2018/) (2018/09/02)
 
 - 小さくはじめる端末管理
+- https://speakerdeck.com/nonchalant/iosdc-20180902-xiao-sakuhazimeruduan-mo-guan-li
 
 
 ## 2017
