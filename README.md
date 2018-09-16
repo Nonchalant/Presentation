@@ -30,6 +30,7 @@
 ### 6. [iOSDC 2018 Reject Conference days1](https://iosdc-reject-conference.connpass.com/event/93314/) (2018/09/15)
 
 - Factoryの自動生成によりテストを書きやすくする
+- https://speakerdeck.com/nonchalant/iosdc-rejectcon-20180915-factoryfalsezi-dong-sheng-cheng-niyoritesutowoshu-kiyasukusuru
 
 ## 2017
 
