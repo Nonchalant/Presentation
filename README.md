@@ -1,5 +1,12 @@
 # Presentation
 
+## 2019
+
+### 1. [CA.swift #9 WWDC19報告会](https://cyberagent.connpass.com/event/129850/) (2019/06/19)
+
+- Sign In with Apple
+- https://speakerdeck.com/nonchalant/sign-in-with-apple
+
 ## 2018
 
 ### 1. [Otemachi.swift x Kyobashi.swift #02](https://kyobashi-swift.connpass.com/event/75379/) (2018/01/29)
