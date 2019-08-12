@@ -7,6 +7,13 @@
 - Sign In with Apple
 - https://speakerdeck.com/nonchalant/sign-in-with-apple
 
+### 2. [iOSDC Japan 2019](https://fortee.jp/iosdc-japan-2019) (2019/09/05)
+
+- 動画アプリの投げ銭機能における消耗型課金の仕組みと実装
+- https://fortee.jp/iosdc-japan-2019/proposal/d2ce8e9f-6294-45da-912f-2246dba78401
+- https://speakerdeck.com/nonchalant/iosdc-20190906-dong-hua-apurifalsetou-geqian-ji-neng-niokeru-xiao-hao-xing-ke-jin-falseshi-zu-mitoshi-zhuang
+- https://speakerdeck.com/nonchalant/iosdc-20190906-dong-hua-apurifalsetou-geqian-ji-neng-niokeru-xiao-hao-xing-ke-jin-falseshi-zu-mitoshi-zhuang-with-fa-biao-falseto
+
 ## 2018
 
 ### 1. [Otemachi.swift x Kyobashi.swift #02](https://kyobashi-swift.connpass.com/event/75379/) (2018/01/29)
